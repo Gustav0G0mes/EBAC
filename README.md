@@ -1,4 +1,4 @@
-Baixe o arquivo em:https://github.com/Gustav0G0mes/calculadora.git
+Baixe o arquivo em:(https://github.com/Gustav0G0mes/EBAC?tab=readme-ov-file)
 
 Permita a execução para o arquivo com:
     chmod +x calculadora.sh
@@ -9,4 +9,5 @@ Dê permissão de execução ao arquivo:
 
 
 Execute o script:
+
     ./calculadora.sh
